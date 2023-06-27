@@ -1,0 +1,18 @@
+*{
+  /* text-align: center; */
+  margin: 10px;
+  background-color: #E5CCFF;
+}
+.input{
+  height: 30px;
+  margin-left: 75px;
+  border-color: #000;
+}
+.button{
+  height: 50px;
+  width:100px;
+  margin-left: 100px;
+  margin-top: 25px;
+  border-radius: 10px;
+}
+
